@@ -1,1 +1,3 @@
-Pipeline to reduce data from the Amherst College Observatory
+Data Reduction Pipeline to reduce data from Alden Observatory at Amherst College.
+
+Written by: S. Betti 2020.  
